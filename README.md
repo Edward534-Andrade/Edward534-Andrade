@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hola!! Soy Eduardo Andrade
+Soy un Estudiante de Ingeniera en Informatica :) Soy una persona Ambivertida y me gusta mucho servir en mi iglesia y poner mis habilidades para tocar violin y leer en liturgia.
+## DATOS CURIOSOS SOBRE MÍ ✨
+Me llama mucho la atencion especializarme en ciberseguridad y en google cloud
+Sigo fortaleciendo mis habilidades en tocar el violin y en programacion
+Me intersa mucho estudiar los diferentes lenaguajes de programacion como, JavaScript, Python, C++, HTML etc.
 
-<!--
-**Edward534-Andrade/Edward534-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Mi meta es construir nubes tan seguras como una bóveda digital. 
 
-Here are some ideas to get you started:
+🙏 Mi fe es el motor que impulsa mis ganas de aprender y servir a los demás. 🕯️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Dios, un café y la música clásica son mis mejores compañeros de programación y me ayudan a concentrarme. 🎹
+
+## 🚀 MIS OBJETIVOS PARA 2026 🎯
+🛡️ Seguir mejorando mis habilidades en programacion.
+
+🎻 Perfeccionar mi técnica en el violín para piezas de nivel avanzado.
+
+💻 Desarrollar un proyecto de código para realizar una pagina web.
+
+📖 Seguir formándome para servir con excelencia en la liturgia de mi iglesia.
